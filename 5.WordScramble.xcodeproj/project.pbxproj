@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		772D6CEC2B3F7DBA00A86D55 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 772D6CEB2B3F7DBA00A86D55 /* start.txt */; };
 		77B8EFA82B3E21140037ABAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B8EFA72B3E21140037ABAE /* AppDelegate.swift */; };
 		77B8EFAA2B3E21140037ABAE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B8EFA92B3E21140037ABAE /* SceneDelegate.swift */; };
 		77B8EFAC2B3E21140037ABAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B8EFAB2B3E21140037ABAE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		772D6CEB2B3F7DBA00A86D55 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		77B8EFA42B3E21140037ABAE /* 5.WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 5.WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B8EFA72B3E21140037ABAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77B8EFA92B3E21140037ABAE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				77B8EFAB2B3E21140037ABAE /* ViewController.swift */,
 				77B8EFAD2B3E21140037ABAE /* Main.storyboard */,
 				77B8EFB02B3E21170037ABAE /* Assets.xcassets */,
+				772D6CEB2B3F7DBA00A86D55 /* start.txt */,
 				77B8EFB22B3E21170037ABAE /* LaunchScreen.storyboard */,
 				77B8EFB52B3E21170037ABAE /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77B8EFB42B3E21170037ABAE /* LaunchScreen.storyboard in Resources */,
+				772D6CEC2B3F7DBA00A86D55 /* start.txt in Resources */,
 				77B8EFB12B3E21170037ABAE /* Assets.xcassets in Resources */,
 				77B8EFAF2B3E21140037ABAE /* Main.storyboard in Resources */,
 			);
